@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="part-of-set.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="part-of-set.h" />

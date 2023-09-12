@@ -3,6 +3,7 @@
 #include <set>
 #include <algorithm>
 
+/*
 template <typename T>
 std::vector<T> FindGreaterElement(const std::set<T>& elements, const T& threshold) {
     std::vector<T> ans;
@@ -12,3 +13,4 @@ std::vector<T> FindGreaterElement(const std::set<T>& elements, const T& threshol
     std::sort(ans.begin(), ans.end());
     return ans;
 }
+*/
